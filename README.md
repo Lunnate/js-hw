@@ -10,23 +10,23 @@
 
 1. **Task 1**:  
    Вывод строки в консоль при загрузке страницы.  
-   Файл: `task1/index.html`, `task1/script.js`.
+   Файл: [task1](task1/index.html).
 
 2. **Task 2**:  
    Обработчики кликов по элементам `<p>` с демонстрацией `console.log`, `alert` и `prompt`.  
-   Файлы: `task2/index.html`, `task2/script.js`.
+   Файлы: [task2](task2/script.html).
 
 3. **Task 3**:  
    “Светофор”: три круга, по клику загорается соответствующий цвет, остальные гаснут.  
-   Файлы: `task3/index.html`, `task3/script.js`, `task3/src/style.css`.
+   Файлы: [task3](task3/index.html)
 
 4. **Task 4**:  
    По клику на ссылку появляется `prompt` и изменяет текст ссылки на введённый.  
-   Файлы: `task4/index.html`, `task4/script.js`, `task4/src/style.css`.
+   Файлы: [task4](task4/index.html)
 
 5. **Task 5**:  
    При вводе в `<input>` текст дублируется в блоке `#duplicateField`; по нажатию кнопки текст выводится в консоль, а поле и дубликат очищаются.  
-   Файлы: `task5/index.html`, `task5/script.js`, `task5/src/style.css`.
+   Файлы: [task5](task5/index.html)
 
 В корне лежит файл `Task 6.8.1.html` с меню-оглавлением для быстрого перехода к каждому заданию, а также общий `style.css` для оформления этого меню.
 
